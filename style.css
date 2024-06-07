@@ -1,18 +1,25 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
+    
 
 }
 
 header {
-    background-color: :
-    color: #fff;
+    background-color: rgb(255, 255, 255);
+    color: #28a5df;
     text-align: center;
     padding: 20px 0;
 }
-
+.texto-titulo-1 {
+    text-align: center;
+    
+}
+.textos{
+    text-align: justify;
+}
 header h1 {
     margin: 0;
 }
@@ -28,7 +35,13 @@ h2 {
 }
 
 img {
-    max-width: 100%;
+    max-width: 500%;
     height: auto;
-    margin-bottom: 10px;
+    margin-bottom: 0;
+    margin: 280px;
+   image-resolution: 0%;
+
+}
+.img-mercadores{
+    margin: 25px;
 }
