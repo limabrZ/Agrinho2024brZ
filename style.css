@@ -15,10 +15,13 @@ header {
 }
 .texto-titulo-1 {
     text-align: center;
-    
+    font-size:190%;
 }
 .textos{
     text-align: justify;
+    font-size: 170%;
+    margin-left: 2%;
+    margin-right: 10px;
 }
 header h1 {
     margin: 0;
@@ -33,12 +36,15 @@ section {
 h2 {
     color: #333;
 }
+.img1{
 
+
+}
 img {
     max-width: 500%;
     height: auto;
     margin-bottom: 0;
-    margin: 280px;
+    margin-left: 380px;
    image-resolution: 0%;
 
 }
