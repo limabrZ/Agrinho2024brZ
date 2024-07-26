@@ -36,10 +36,16 @@ section {
 h2 {
     color: #333;
 }
-.img1{
-
-
+.logo{
+    position: absolute;
+    top: 10px;
+    left: 1300px;
+    width: 200px; /* largura desejada */
+    height: auto; /* altura automática para manter a proporção original */
 }
+
+
+
 img {
     max-width: 500%;
     height: auto;
@@ -48,6 +54,10 @@ img {
    image-resolution: 0%;
 
 }
-.img-mercadores{
-    margin: 25px;
+
+
+.img-final{   
+     flex: 1; /* Ocupa todo o espaço disponível */
+    margin: 0 0px; /* Margem entre as imagens */
+    max-width: 100%; /* Garante que as imagens não ultrapassem o contêiner */
 }
