@@ -54,10 +54,6 @@ img {
    image-resolution: 0%;
 
 }
-
-
-.img-final{   
-     flex: 1; /* Ocupa todo o espaço disponível */
-    margin: 0 0px; /* Margem entre as imagens */
-    max-width: 100%; /* Garante que as imagens não ultrapassem o contêiner */
+.imgfinal{
+    margin-bottom: 1300px;
 }
