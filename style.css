@@ -36,24 +36,23 @@ section {
 h2 {
     color: #333;
 }
-.logo{
-    position: absolute;
-    top: 10px;
-    left: 1300px;
-    width: 200px; /* largura desejada */
-    height: auto; /* altura automática para manter a proporção original */
+.img1{
+    display: inline-block;
+    text-align: center; 
+    margin-right: 220px; 
+    margin-left: 200px;
 }
 
 
-
-img {
-    max-width: 500%;
-    height: auto;
-    margin-bottom: 0;
-    margin-left: 380px;
-   image-resolution: 0%;
-
-}
 .imgfinal{
     margin-bottom: 1300px;
+}
+.link{
+    margin-left: 20px;
+}
+.doacao{
+    display: inline-block;
+    text-align: center; 
+    margin-right: 20px; 
+    margin-left: 450px;
 }
